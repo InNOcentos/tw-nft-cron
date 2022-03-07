@@ -1,0 +1,4 @@
+lintrc.js
+test/*
+out/*
+*.js
